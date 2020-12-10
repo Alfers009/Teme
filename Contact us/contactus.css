@@ -1,0 +1,22 @@
+
+h1{color: rgb(34, 34, 34);
+    align-items: center;}
+
+#Fronttext{color: grey;
+    font-family: sans-serif;
+    display: block;
+    ;
+}
+
+#input{color: lightgrey;
+    margin-left: 40em;
+    padding: 1.5em;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+    text-align: justify;
+} 
+
+button{display: block;}
+
+div{align-items: center;}
